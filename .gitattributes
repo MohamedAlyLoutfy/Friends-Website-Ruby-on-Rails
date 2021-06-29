@@ -10,4 +10,5 @@ yarn.lock linguist-generated
 vendor/* linguist-vendored
 
 *.html linguist-detectable=false
+*.css linguist-detectable=false
 
